@@ -16,7 +16,7 @@
 </p>
 <br/>
 
-## Features it's supposed to be here :)
+## Features
 
 - [Next.js](https://nextjs.org) App Router
 - React Server Components (RSCs), Suspense, and Server Actions
