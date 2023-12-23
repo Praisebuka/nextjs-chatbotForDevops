@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#features"><strong>Features ai have a project like this??.....lol</strong></a> ·
+  <a href="#features"><strong>Features ai have a project like this?? </strong></a> ·
   <a href="#model-providers"><strong>Model Providers</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
   <a href="#running-locally"><strong>Running locally</strong></a> ·
@@ -16,7 +16,7 @@
 </p>
 <br/>
 
-## Features
+## Features it's supposed to be here :)
 
 - [Next.js](https://nextjs.org) App Router
 - React Server Components (RSCs), Suspense, and Server Actions
